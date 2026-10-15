@@ -1,0 +1,19 @@
+# Versions exercised for WCSScene 0.1.0 on Python 3.12.3.
+# Install with: pip install -e ".[roman,dev]"
+# These pins are a record of a passing run, not an exclusive lock.
+
+numpy==2.5.4
+astropy==8.0.1
+scipy==1.18.1
+asdf==5.4.0
+gwcs==1.0.3
+roman-datamodels==1.2.0
+rad==1.2.1
+pyarrow==26.0.0
+lz4==4.4.5
+pytest==9.1.1
+ruff==0.17.1
+
+# Blender 4.5.14 LTS, build hash 62c1db4208e8, built 2026-09-15.
+# Binary used: https://ftp.nluug.nl/pub/graphics/blender/release/Blender4.5/blender-4.5.14-linux-x64.tar.xz
+# Blender itself is GPL-2.0-or-later. This file does not pin that binary.

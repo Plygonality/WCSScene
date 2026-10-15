@@ -1,0 +1,423 @@
+SIMPLE  =                    T / conforms to FITS standard                      BITPIX  =                    8 / array data type                                NAXIS   =                    0 / number of array dimensions                     EXTEND  =                    T                                                  COMMENT WCSScene synthetic MEF. Not a telescope observation.                    END                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             XTENSION= 'IMAGE   '           / Image extension                                BITPIX  =                  -32 / array data type                                NAXIS   =                    2 / number of array dimensions                     NAXIS1  =                   96                                                  NAXIS2  =                   80                                                  PCOUNT  =                    0 / number of parameters                           GCOUNT  =                    1 / number of groups                               EXTNAME = 'SCI     '           / extension name                                 WCSAXES =                    2 / Number of coordinate axes                      CRPIX1  =                 48.5 / Pixel coordinate of reference point            CRPIX2  =                 40.5 / Pixel coordinate of reference point            PC1_1   =    -0.90630778703665 / Coordinate transformation matrix element       PC1_2   =      0.4226182617407 / Coordinate transformation matrix element       PC2_1   =     -0.4226182617407 / Coordinate transformation matrix element       PC2_2   =     0.90630778703665 / Coordinate transformation matrix element       CDELT1  =  0.00013888888888889 / [deg] Coordinate increment at reference point  CDELT2  =  0.00013888888888889 / [deg] Coordinate increment at reference point  CUNIT1  = 'deg'                / Units of coordinate increment and value        CUNIT2  = 'deg'                / Units of coordinate increment and value        CTYPE1  = 'RA---TAN'           / Right ascension, gnomonic projection           CTYPE2  = 'DEC--TAN'           / Declination, gnomonic projection               CRVAL1  =                150.0 / [deg] Coordinate value at reference point      CRVAL2  =                -20.0 / [deg] Coordinate value at reference point      LONPOLE =                180.0 / [deg] Native longitude of celestial pole       LATPOLE =                -20.0 / [deg] Native latitude of celestial pole        MJDREF  =                  0.0 / [d] MJD of fiducial time                       RADESYS = 'ICRS'               / Equatorial coordinate system                   BUNIT   = 'adu     '           / declared image unit, not surface brightness    FILTER  = 'SYN-G   '                                                            INSTRUME= 'SYNTH   '                                                            TELESCOP= 'NONE    '                                                            OBJECT  = 'WCSSCENE SYNTHETIC FIELD'                                            ORIGIN  = 'WCSScene synthetic fixture; not a telescope observation'             PRODTYPE= 'SYNTHETIC_2D'                                                        DQCONV  = 'WCSSCENE_012'                                                        DATE    = '2026-01-15T00:00:00'                                                 END                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             AéÆAuPAÒF@ý#[@þ©HA ¼@þyä@ðûA	‡Æ@üÐ4A	›—@þøÖA:?@öv†@÷VAÕ²ABê@÷ŸAqøAÎ¤A#»AàâAQè@þìAtü@÷¸AoêA
+&AAûÐAÈ‰A>}AWA ´“A@A	¢bAüÕA x¶A€A@ýò)A¹oA#Aõ|A3®A*A¬‘AgŒA²AR Aç”ArÉA’Að·AïÈAòA	‹©A¢÷Aé"A	Aœ©AA;AöhAy,A›BAX2AÔ†Až¡A° AÐšAYAðªA	1AÂ2A
+$AA\A—]AP-A=ÍAýA+fAO>A–A­žA;A
+SRA·¨A_QA·,ALA+GAÒîAñAÜÆAÚiA*EAýê@ÿŠÛA Œ%Aç@öÜ¿A™@úð;A™TA
+O1AuLAzxA C°A^d@ú¢7At¯A=‚AÎAÖ5A òA–jA›Î@þ7Az±A=AA ²_A,A>_A»1A HAô¤AúüA±Ð@þi£AÓ[@ûY¸A;j@üçAÐxACA^ˆA^ÄA	áîANXAV¸AVSAËA„ˆAwA´›A|mAÝiAÇZA	eA­ÌA´áAôbAüßA"AÆ AžKAq
+A¢åAñŠAŸ°A
+!ÜA
+<SA!ÐAäbA
+|cAëýA
+AA
+iAöûA¸ A)²AxÉA3dAKüAÅsA¤TAhäAo A<‹A-ÈA
+Ó:A
+vWAÖ±A
+0‡A*A­¬A OAóúA²pAMŒAt@ÿòZAU¯A[T@õîÈ@ÿÂAíRAÁ)AmA•Ô@û^‚A.ÞAA¢A@ÿ’AÜMA
+¼;AOjAU)ArA BA Lx@øø¿A ¬@A¸nAç…@úüóA	P*A™m@útA\ÎATuAQ<A	"A°yA¶”AªÞAËA.…AxA&*A	ÏA‚IA
+$FAÙ‹ACA"ÈA	AÕAÑÐA9!A
+<øAâA´·AuïAóVA;ÆA¥NA
+2AÓVAnAL¬A:AL%Ah\AOHAŽAÕ§A
+VvAÃAú#A	47A1âAÑAR¨A
+¡ADrAÊfAvAuvA4A
+òÁAâžA%’A]A	äA»•A¾ApAäUAÓeAýdA¡hA#ÄAêqAæAöÓ@öÕ @ÿ6@õW]AUN@øZc@ÿdAúè@øˆå@úuÞ@üÕ@ðò’AÒTA×
+AµkAþÝ@ý²ÞAÞiA ¡A§ñAAK@øÛXAIAöªAŠA ANMA¦¦AR.AvýAFyAUaA]UAe@üØ“A
+A	J¶ASA1A\wAwÕA
+4xA ÅcA	\A^Au©A  1A›GAœ½A	K•A¨A{A	×SA¯8A^•AÝšAXA ËA
+½A
+C,AÙéA05A`DA	ãYAb+A…AyØA
+÷CA(zAKAiiAaüAÑ¾AÔ—A­œA2ïA	'´Aâ÷ARÜAôA?´AfdAñ?AÄA¯dAíoAˆVA9‡AËûAAVõA|ÀA
+q8A#AœA*@ùå6@ÿXæ@þVd@õ;FAzœ@ôÛA QùA¾2@ÿŽNAŠô@ûAŽFA ÞÌ@÷A
+&$A-âAE%@ü,š@ÿ*oAäÊAVQA$µA	ØA ÐÜA¦AñžAÖA•“A4àA¿Aˆ'AùA\ZAWþA¬@ôu&A	'¡A&-AÉA¿ßA Ž?AýA qAyÌAA6AfÊAÜAµ§A)SA}&AíJAºÔASœA
+ª„AhèA	IîA_–A
+ÛAÌuA>ãAÆÚA|ûAØdAL~A:ÎA3éA1kA	¥A
+®ÏAÏVA	ãA7ÙAèäAWøA	ôªA
+ä½AÌŒAs¦A}­A"øA
+­A®A=wA	"AŒˆA­jA'BARA
+„ûA:ËAŒÄAÊ±A…RAu6A°Ž@úùA ß˜A|@ý£AóA 6¨AÇ@ÿ}ÀA€³@üŸ@ÿ‘OA ôkAyÀA0å@õBFA"úAÆ@ú	@üü¸@þ¯öA·AªAòÆAÊA×GA°sA 3áA8hAbšA¥yAÜqA,?Aø.A\hAEtAíA—ñA¬ÖA¬àA:¬AAJJA
+µ%A
+A^áAŒçA=r@ý(üAèA¡A'9Aœ.AXEAWAY'A
+C8AºûAÆbAX‡A6}A	Ÿ‡AwSAA˜AT¢A}A!A	Ð3AìA[ýAÒ|AX^AÆ\A[AHùA8‚A•}Aú$AÌÚA^‚AóÒA
+…?A	ÄãAÔAÌËA•(Aö'AÇAeAbÀAÈ?AŸA$A·)A
+­©AÞ)AfÈ@ø†ð@ûŠ@üfA­aA3§@þøu@üi@øž€A€ÐA«­A§R@ü[	ArÎA ß·@úC¿A§ÃAH;AwA{Al›@ÿ”o@ÿ? A	òÔ@ûËA	É8Av±A+mA	t2AAA–AN‘A ÑÀAÅpA±ãAîÞA«áAÕA—(A´_@ÿ\ŽA d(A
+sA2Aç£AA^ÐAH.AaÉA
+®ÀAmAfíAã“AÔAµAœÊAqA¶ÁA
+DA
+h>ApûAžƒA‡ñA<A‡öAu,AhÈA9¹ALA	ÂKA
+)%A
+“8AÜ]AAµAîkA’`Av}A$·A±üAJ®AÞA]AðùAÉöA
+çþApAOèAAè†A¦5A
+õÀA
+¼ŽAC§AOäA›ÊA ã[@ù£þAû7A ´VAí@ø˜*@ÿë9AöApäANAq@õXA³°A~­A¤@ÿ:QA'œA iAøéAqŽA8AçÄA)ö@ú¶ÆA PM@û’™AI®@þY0A
+x¨AÅA†šAÜ2A>åA	äA»µA}A§ÞAý>A‰ºAhA6àA®A	Ù A	 <AA¦@ü»ÂA¢	APAäsA
+é·AŒ$AÆ¾A:éA“èAF!AÃuA°AÑ5AÞWA
+ªtAb×A
+ª1Až~AQA
+cuA&žA A	Ë¯A`;AkA³%AFLAsÇA½YAu_A~‹A
+ŒTA
+ÖÍAA'At1A6AÉzAVAMAµäA·8A]ÌAÝ$A5AF6A8¤ApAJAEuARû@ù.ß@ÿÞîA‘î@ûó>A	©AbAjðAº‘@ø“6AG²À  Aõ1@ÿ—?@úàš@ýÞË@ÿŸAÿ¥Af¿A¦@ûxAÑzA×ðA‹áA.µ@üºADÊAà]A¼Q@ý(AÀ®A
+%Abù@ÿÕ‚A›9A ‡AR±AwëAYJA¢Aå3@ÿò=AFXA
+ò	AžäAÈýA¹5A8A]›A-A	IÞA
+£'AzAÔüAª±A"kA÷AÛA‚‚A	þ¤A.‹Ae•AÈ?AšeA–ƒA½·AêÌAjxA	)A	e`A¸¡AxAæA~ŒA©çA¶oA•~A®GA©–AAcA0WA˜,AÃXAF¥A×öA$‰ArðAbÊAÑÌA¿ßA¥A5µAðçAPAîKAõ8Ah±@û÷E@þÆ A%+@øˆMA™A‡Aé›A–¶@üƒ A ›N@þ¢†AÀAŽtAÙf@ì4A4AnAYA
+&ÆA œA|[AbA°ArAO+AÄSA  Ao…A¡zA¢É@øqAg§A	a-A³!Aæ¾A¥ÛAœxA@ôo:A	fA	ˆ¤A‘A@A !AÕ*AžAÞÌA'{A¹§AçÄA.A§¸AºÃA¥3A«°AWòA€!AiIA~½AÕiA
+áAç}A	+.AzAn÷A
+^A A
+cAÎAÃA»:Aœ°AØÉAAÂAÆA—xA
+ÃA%jA©nAÇ‡A” A¢AK×A¶PA
+A†_A÷ªA|£AÉAÄ¶ArÐAæAèA¬AI¥AƒªAŸÚAC’@õ¡—Aå3@þI¡A ˜»Añ9AufA6%A“KA SLAñAÖAûŒA ý‚AsA«AÇD@ü>RAÉæ@þB5AÎÞAª'Aƒ;A–WA±AˆÁ@ÿ™EACÐAóáA½DAZåAÕ#A	¬ãA£IAû?A ºAaüA	Œ¶A™2A_6AåªAÑÊA	-pA+åA	„'AfaAÁeAË-APAž¡A±wAû¶A™A¿.A‘A
+þPA	\A	XA!¯ApÔAª“AqA 5„AòªA2¾A°õAÖA
+ÎÃAµ5Aˆ|A	ªŽAé’AœóA{fAíÇA0¶A¥A$ZAHTAÔÃA®ãA–A5ãAäiAúæAØ’A
+Û&AR0A
+ø÷AJ‹A”A” A…qAŒ“A “=@êûÅ@÷Ö¥@ü;7A¯A T!@ö:õAc>@îy˜@÷FA –—@ùÉÐA+ˆA
+2]A ~U@ù×A–<@ý;ŠAkA­öAÑýA	ä0AlqA×A_ŸAF7A	}A*NA’–A
+YÂA¯¤A¬JAö4A¦ÚAõ!AI;A'pA	%4AuAÀ3A"×A)	A	åAÜAñø@þ§OA
+2¼AÀ|A_8A	A@A%¯A	ë&A©fA‡AøAYêA\>AŒA	5êA+A=Aš‡A}pA-¸Ab­Ar{AôA8©AzSAX€A
+j¡A	Œ8A	]AßáA	D]AD˜AÊ²A‚ºA
+æAgŸA#oA)aAŸÀAIEAÀAN^A
+]qA	AAAp$A«ýA|LAq±A	¯A	ÿûA*ŒAÍ@ÿš@ö™Í@þ×C@ó2A8A¤XA×æA ¤q@ó³k@údA âA ö AéJA áx@þ¨ A
+*Aà:AÃ‚A0ñA9äA9iÉAhÞA¢AÙúA¶…At.@øqœALA<A„1ABA_ÖAÐMA‰A	"0Aò¼AÙJAxA^A(¤A	³A
+ÝAF!AA*‹ALzAÏ;A ËaAÓÿA…‰A	|·A ÎæA°Ù@ü›·A@÷AïòA]0A³šAuÂA	^DA€IAÁ¯A>jAšAÊAAçèA›^AUAà‹AÁÊA½A1DAÌrA‡_A4¦A
+ÛA	åHAÐ/A²/AmLA
+³ðA0ËA5nA
+Ò<A3µAÎA.A!A…-AÞAfA	bA€1Až%A¹AœAY¢A”ä@õ]7@ù\@ü&cA ÐGA ¬ãA ÍÍAò¼AMÍA ù%AyÖ@üõ«Aü|@ü	èA ôA&©ˆAbýóA›!UA®þ”AšøAk A.À
+AIèA
+ØAþ“AÅAŽµ@ùôA•hAïAAj†AÑqA(eA‘A.$A/¡A
+.A‘ƒAF¡A%“AZÃA´ÈA>ÊA AD	AA½ŒA
+´¾Aª.ABA
+ý¬AA’A	2£A
+3ÇA«2A`AÀ]A‡MAZšAgÃA
+r2AÏŠA¤HAuSAžÞA#Õ»A= _A/;…A5 fA! A¡°A4µA	sA
+ý@A¡ÐAcõA³ÈAN;AíÌAÆ&A4}A	œBA‹jAùœAÁ+A	[WA¤A)$A
+&dA	N’A¨ýAá^A6l@ü @÷ŒšAš¼A §@ÿŒ^@ú ü@õõœ@üVÆA M/ABA ¬@üXPA¿ŽA:@A 8ÃA^JAQ$Al·AÇÕ%BWKB2âBBAÇ˜1Ad¼ÅAsA {A	[AO¡A"AkAÉ[@þxA~‹@ø”±@÷~]A5¢A±KA9UAMÖAÙAóoAx(Ad3AJùAo<A¶ÃA	ËÞA–HAíÖAþAdA•­AEd@ú9ÚA¾SAuA?îA	€:A
+û:AP+A»ëAŽ¼AÒàAb®AƒÌA«éAkA=­Ap¬8A˜}A¤ÌTA•åeAw#1A6\ïA¡AWÃADwA
+wAÍAfQAFA®iA¢“A­aARQA.}AÐ™AR~A‹As°AÉñAÝõAnHAgAöTAž@ý/„Ae&@þzAaöA‹[AŸH@û~sAóÄAPLAG\Aî“A )@ýt@ÿ¡ûA ˆëA	A3~}AžˆB/ByÙÐB”láByŠ0BÿAœ2{A7÷cA	P¡A»4A4A âµA
+xhAmìA ÔA¬ÔA;
+AGA‡‚AÍA+áAìA§¡A	Ç?A†¢AÞ³A‚)A€³A¼…ACA/¯A–’AºAõ’A”A»²Aä9AÌUA=A	sªApÀAV&A6’AéÕABAþA…A
+(pAÊA=JAŒìAÜQ×Bq B/0cBîøAÛ=ÅAŠ±BA9¼AÔrA	XÆAºeAÁA½ÏA?³Aã A“ÝA^¹A)üAgªAØAHuA¾§Až’ARA¤ˆAA
+I¥A«'Av…Aà˜@ð>Aù“A&Ë@ý£ÖA)p@øi¡@ý’ìAðMAûqAÙ@ü†?AîAGÿAÅlA}ÁA7‹ÙA®ËB3ƒB“´B°Ø[B”ezB3pA²7ÉA<*HAóA
+Ô~A}XAM…A’DAG0A^A­/AñÝA‡|AÈOA
+ÔA	ø}AùSA={@þTŒA¥ØAÔ·Aå$AšŠA	Æ3@üÜA·¶ALgA)pA	öIA
+^éA¤-AðAçfAÀA
+0A GËAZíA_„A"2A³&Až’AÊbA‚ZA!CëAmF•AÛ+èBDÑ³B’pŒB§ùfB’š\BFÑžAÜüºAvBZA)wçAf…AµáAgA^Aä`AxàAp?AËÕA¯ Ax}AêA´ëA3Ar]A°!AIJAuA	ñAç»AQ¾A
+1A Õ$A {A5è@ôDA› @ÿ‚RA~zA A×A¦÷@ü0#AÖAs·AaåAH5A«íA2:ÜAžhªBOBy×€B”-éByå·Bã˜AŸ0^A4¾AŸÇ@ùgUAjA×µAœSAT½A µA=CA	@AéÂAtùA‡µA@ËA®QA,èA8óAY£A	óA
+¥Aë©AxéA L<A	ƒyAEAƒ˜AóAOAò8A¬SAQA	ÕA½AµA‚ADAB¶Ai&AªqA-AKxA/EA™X)BžmB’ßãBßuHC ä)BÞMjB‘ÙhB¦GA–G“A/n‹AsAƒATnA	Y<AKA)dAÈ
+A'qAïAøA¡êA©¥AV4A<AšôAS¤AÇAIçA$îA|vA	UYAÂbAÿ^A lAZ]ACsA7uA†A´;AmfAêRAË]A§ÎAv,A(|A	âA¨&AdÐ:AÊœaBâåB3 #B¡gAÉÖAh
+ÃAØûA‡EA²«A ’á@öô@üdØA·òA&yAÝ€A É¢A<ƒ@ñúA)˜An¤Aú.AoÕAUxA¹5A= A+²A	(ABAekA*ãA—TAæUA
+qA4ÂAÃAôLA‘A-AýAJ‚AÅ.Aj’A
+èäAÛAR>AGXA¼ÀA;ýqA¤’	B0QB¨,+C ÇCµ-C ÖçB©Ä¾B-AšA£†|A;ÈÆA=‡AÌAŸ¶AºBAHûAÉPA]SAïÝA2=A†4A‘¢A
+TOAìÚAÁÿA$wA`‚A óAôfA&åAwiAÁ­Aî @ÿ€ÅA (a@ýAÐ;AŽA{@ÿd|@ÿ¡©@þ~p@õ\d@üN;AgAplAOúA4]A*AbLµAœ­—A­5Aœ³7Acú)A1OŸA?HA ÔAiåAeU@þží@üYÙARAˆUA;äA¦ï@ÿ¶”@ù¨NA9qAÚAÏ4A v{AiBAY%A&ÖA	YA´AÐA
+ÐçA‡\A
+Š~AöhAÍØA
+X/ATÈA‡ÀA	«“AƒÑA`Ô@þ¦sA½8A¯µAÙ*AèæAËTAñdAWõA/û¾A—$äBºæB“GBÞD{C vLBßYB“-ÞB¶A–ÄA0XAÖAèÁAÄ?AýMATAf.A‡A,¬A
+p›A2A21AnGAvâAcAÓhA}QAFAÿAãA
+».AFA ‹.A¤.A%%@ö¨ÒAÔ¹@þà0AÓ@úb¢A L@ý@h@ùÿ'A gòAüA äÊ@û¶@ýÆA…4AÞ›A.âA5µíA/AfA"‘,A
+ÀüADD@ú¤ý@óVØAîmAnGAÎïA?ƒA Ò}A@ÝA\¢A7AÍpAXAQZAê}A ­žA@8A×-AÙ”A˜AáA›“AYjA¶IAhåA$~A¡ùACmAtµA6úAh@úÎiA.­ATAÁALdAE…A
+½A†yA€#A’*A$ÉÑAkoPAÝ©KBEYNB’‰ÕB¨›B“·BE{_AÙ§ïAn\A&T8AzA“9A
+}Aâ~AÈÃA
+e—A
+¥A´îAØPA0¹AAäAî2AÖA{ôA
+”8AÍ½AœAA¢AÓ}@û>tA¸A ÅZ@öŸÖA“@úövA¸YAz@ûÂþ@ñ`îA£á@ý)AaÖAÎ@÷†[@ûIÛ@þýÏAÆA–àAA‰A„±Aq‡@û MAƒ^A\•AtA	ÎdA¹€A 0,A+ÌA#êA"AÑWAAVAU#AxA¿	A÷ÓA
+`ûAM4AhAd‘A_ÔA*sAK‰AnAÁA	\¡AÇAÊGA
+°IA8 A
+‘þA!A!AIAå_A	UA
+Î‡A
+°öA»AË…A^ãA¨÷A©äA;{AAŠmAÛ¡íBOZB-1¥BAÝÇ|AŽzÄA8v‚A°Aè6AAÅA+QA«A
+©ÒAÕÛAYA'}AïQA®îAô”A
+5îA¨AÌñA&ÑAV.AùöA¹|AñÓA_ÈAO¯A/-Aë—@íj®A±`@ý°þ@üþ€AâA@û[ã@þ/‹AN’@õA	XxAÃJAšš@ýì8AHA !AûAƒëAðIA—{A
+dAÉA¾ÄA·QA ¸»A
+i:A-zA4ÙAÄÅAy½A;•A”ÿA˜fAOöAzÕA“;A®ÑAÛwA2AÏTA¥A¥4AëA	ÆA	UBAÆ A	6NAžCA	C¼A	=gAOwA*AÀôA+AÅŸAÛŽAƒÙAà™ABÄA	AìÞA’½A×AG•A¶ÄA?*ÜAx4ÂA’– A¢£A–;ŽApá€A6²bA³DA	âxA	¡¥A«“A	¬$A71AmýAŠ†AFA^ŽAð¦A§gA­NAµìAr™A§ASAœA¯wAJ9A
+CkA]âA HA Ì@ýl>@ýØ@ù!ˆA oýAÿÁA	Ÿ›A ¶@ó¹}A”@û^†@þç€AxAK“A€`@ý\\@ÿ[ÀA T‹A‘A	¯AÿüA9óAÎ´ANWAKéAûAÆeAƒ–AAÌAÊ(A—A& ALêA9|A“ÈA?AÏðAxÃAš*A.ËAÄÙ@ýƒTA­AªŒA·†A {–A\ÔAî@ûêAb3AÛMAƒöA©ÖA”†A[©Aý‚A]‘AQ7A›‘A‰;AqHA7:AáAœEAÆRAgùA•zA%	óA1ðjA6	A:4¯A#8“A/±A
+Ï·A„üA|A¿’A	#µA	{¹AHAÆýAuåAZÌAtA%µAÁƒA›SAÄA&]Až_A
+ÐA	ÚUA0ÎAXgA±Ó@ÿã$@üU&A_ÞA´îAˆA‡yA«AìS@öAnµA’ÿAÌ-@ød
+A{A *(A	ÒûAÉA ^¥A }’@ÿ«ìA‡ˆAP#A‘AAþCAÊXA)QAA‡NA‚A÷%Ax²Aõ‰AmXA mA<~AÇA»õAeA `mA	q	AKÝAßAºeAãA¤AtdA+AUAd{AáˆA A±ŸA8’A	9ûA£AA€HA©A*A¢dAÐA	üA<DASœA1AÄ®AÔ.AöªA=éA7¦A-¨AAÏAA@ÆA
+/ÄA»cAÖ]A	¤2AA.3A
+õEA$AfJAD»AT´AÑA*A¸·ABàA4cAÛ(AþJAæA.:A\Ì@üŠ»Aý]@üJAEf@úZ@üªAª³@ý†(A žA=CA€ÉAY0AWA;\@ö_“AQAµSAxAŽ½A ÏóAhFAz¯A ÓsAdD@ûÜ_A8FA^A
+†aA>¬A7ïA‰ABA±­AY¶AwBA´éAŠuAD A ¾ÚA	A ”tAÇ¨AÒAíƒA3AÔ¯@ýÇéAÒÐA;ŒAŽA
+
+ŠA% A
+“}Ag_A	¶A:ÐA«‘AµôAÓÀA#A?ÌA¢A	ë+AXAíÄA
+DA$AùˆA	ø0AmÛAõA	¯AVBAª<AS¾AÚñA’A9¬A„÷AtÄAôXAäA‚&Aq€AãjAìA)~Aq9A_LA‚6AhñA	hFA’sA]ÏAAÖ@öÑôA DâA“A X@÷¿ÄAù<A(Ï@õ»Q@üâAØ¬AW@ü4$A	+=A EÉA*¹AvAº³A1±AzA|A >òAé³@ÿo¿A:9A
+¥ýAl×AÑìA
+ãHA]-AŒùAPöA6.Aî'AªÈA	ŒÌ@þÝ¼AçAAsAØÔAmåAÕ/AQAÖËA:=A£¶AžA
+ºA‹A¯A
+VÂAvAA
+AûA
+½AÍ©A—®A A-AùöAÐ@Aâ=AûA#AY»A
+dÆAÒrAŒïA\_A³èA³‘AÁ>A	UÿAh¶Aû¨AXA
+y5A‰$A€¯A$&Aþ/AëAÁ•AÛ3A¸ A·AÙSA•ÈAWEAªAA9A¨AA–dA¶HAKŸA	Wµ@ý ÖAýšAWÞ@üY@ñQr@ýjTA ‹b@úv¹A Ñ(@þ	@ÿÕA "±@ú„…A´¡@ÿº@üí2A ?@ý…¤@ûIÿA&èA ¾ÁAEA	\üARAJGAÊ¶A\aA wA •AéA…ºAGnAP@ÿÝ+A
+gËA )…A:p@ûŠRAq%A·òA²AÝkAa~A£^A)ÎAÕéAe
+AêyAkAi&AI<AUA˜¢A%]AýA„ÄA	ÞA3QA]MAc^A•$AŠA	(íA¥ÔA«bAI[AA
+w´AÝA
+tA-mA³A¤TA¼A1åAGtAb/A
+	A$8AGxAVA‹A€sAéHA^jAÚA¬Au‰A’ÌA¬ðAÔÕAãApA½UA´3A0"@ùtnA‚@üÜD@ÿ½@öeAà›A+A “ÔA«’AÕšAw{A]âAQOA…AZÖA nÞAIˆA¾ºA!&AzADAÆpA^¡A¹GAŸâAjøA	.AÒRA÷‘AbAUAPA°_A{™AÁVA	z«AHßA§ÓAÃîASÖÙAnc´AJÇ^A'áüA	éA‰jAŸ¼AT›AIòAbÚAßî@ú=2Ac]A
+djA;œAþ»A FAÆ“AÔýA
+¥iAëÔAÊcAJ×ARNAæ@A-MA„òAAÝA–A$‚Aˆ®A®[AwFA‚ÛA
+ rAíØA.¾A×þA
+‰iAjAôPA³A|ôAL9AábA¨_A¦Ap~A‡³AQÚAA¢AÄ·A?eASAÇAAœÃ@þþt@òž@öF:@üZÎAR£AS'@úæÝ@ù@ý@©AÚ>A)|AÌØ@þ£A %A	xKAÚøAŠ—@ôïA“@ú"HA™A-}@ú(&A í^@ÿú@üñˆAw\@ÿwýAl’A”áAÐ6A[4A^	A ArA
+öhA½.AMþ©A–âBA¼ÎMAœp¶AOÌAø&AæçA›¤A–GA­AA÷ÙA³µAfØA¦ŸA‰—Aã#A
+¡[A‡ÌA	CAóvA
+ÿ¿A-ÀA>µA
+ŠÿA
+„LAZºAA÷vA
+6®A	ÿA7ÞA?A±Aõ.A"ÐAŒÛA&A5ÛA<ÁAFØAàïAøRA‘÷AÃ}AoAÇ#Af5AÞÌAûPAõÕA2HA^AÓAlA÷%AÚ6AVDAAÝAçAÀÔ@ûrA É@ýã¾A :@ûL@öÔå@ù$A ~µ@ö°3@úÝñA&Û@ùyÁ@ÿ‡£@ÿ¢@þ‚lA”¥A¾ABâAUA	—íAöïAÔŽAÐ‹AoAŒvA.*A}OA]ü@ÿ’•@ÿý¸AÚLAMAÕ¢@ü–ÑA	G	Ao°Ad#A¸WAàºáAºývAhï¯AhOA”cA#YAnAßÎA®ª@ÿõ$AvNAÀ^A:A,ëA
+SáAÑ¹A[hA	A)AÉ#A	L*AÐHA
+A	PÕA-èAZøAÒlAÅA¾A	wýA”ÜA
+ñ8AšA¥lAL·Aâ²A<A’Að‹AÜ‘A"ÓAÀA	)ÇATBA4§A¶åAÎ:A¾	AOA²åAXAŠ AÓ^A ®A–AáµAQAŠ™@øÝ÷A~A ˜ÝA³™A†cA@ºA ½µAæA9A6@ø^Å@öÂA`ÉA‹­A‡œ@óúS@ø@ºA`AÖþ@ý’ùA_Az„A•™A Î%A¯˜A,@úÀA ÝvAUæA	žQA	.“AFAmAIfAû4A	dA\ŸAF3·AšÅ–A·ð@Až¢!APkAE«AEAßAsÀA
+ÏÁASBAë‹A	¼”Aü‡AZsA
+naA†aAHA?¤Aô8A¶?An\AA	ÇA€A
+àöA<%AÿÏAl¨AHA	ïAízAŠ"A«
+AbbAì†A‘2A
+¾µAA¬ÞAÔTAÃA››A\A¡Aý1A
+û_A~MAlªA
+ªA9JAœ—AIJAÈæA¦qAþA½AC5@ÿæŠA#p@úo<AÍRAàOA ôžAƒaA÷¤ANAð~@ú"õ@ÿÐZA è@ûCˆAR—A7°AµòAÿúAÌoA \MA¸tAhOA®AEËAÍOAMÕAG£A}AÅ(A¹ö@ø9A8GAÏÓA ÕãA
+NUAfºA
+ã÷A¿YA%Í¢AVO<AixÕAJ`3A(íA»¡A”ßA•øA«aA	3"A$ÇA]Ad2Aí;Af4A22AiAj¢A÷A	oÕAPÊA
+UAÕãA*CAO¾A8ÞA¬oABgAnA6A
+¶$AcíAÖ‘AmcA–A™úA	ÉbAˆªAø!A&PA}¹AA	]VAe[A©ÃAz\AYëAÝèAEŽAq{AA AŠ7AeARA#3A­AÏ›AA¸+Aø&@ý^g@ñ(”@þåÓ@ýW5@ü×õA zcA„8@ýÝŸA„.A( A©Æ@úK~AñöA½A /ß@ûc@ÿqAKÐA ¢LA-Ÿ@þKüA~žAú@A±ÍA	UrA¹2@ù5FA~…A{âA?A¥™AÙ@A©AÀA	dArDA•©AbA¶XA]ÉAZ	Aô:AVAüƒA	‹Ai‘A3A	ß‘A‹µAv“AUÞA®²AT°AA´AÔäAA)A€¢A™ÃAãßAeùA79A
+ö7A|’A¡VA¦øANA¯³A¨­ABmA
+ŒA³A=+Aã×Að˜AWA>ˆAÍËA­…A"¦A’ìAìA£ÉAÉûA;ÌAÒµA’ˆAJ)Aô'A÷A—ôA¸ÿA
+Í<AKó@ô¸ýAmËA Ï£@ú‚ýAeAi}@÷CRAð@ÿ
+ A6tA7ÇAÛ@üôåAÒ6@þYº@ýMAëAnA€ A Ô@üLA\}Aí A°ACaA’ÂA €A:@Aph@ýõŠA“!A	A	ÂuA¸	Aa(A	k”A
+ »A5-AAA	”@ü¿yA
+&Ag$A¦ãA	‡ŽA‘ÌAH±A
+sÎA
+¤A“RAÝíA
+"SAwØAÿAF AÂA:§ADðAÍaA7·AþˆA¢KAC¤AëA“AŠAÔ.A`A\A}âAÀtA¬A€&ApAæPA	šãA,ACA
+@èAkëAç÷AoA¹AÎ AôAg–AÌACTA¡AÅRA
+ê"AÇ{AiœAS>AÃIA™IAÖ·@üA ˜AÍËAsçA]j@ûë›Aí@ú®A%ÅAæšA@ÿ.£A²GA[ÂA	ñ³AEtAcñA!A ¨Y@û³cAa–@þ"AÁŒA 4A¿ÛA·Aé§A½ôA*Az¨@úAF^A?íA³A¹AÙAz=A7;A	89AÑÚA†!A£±AèDAOÂ@ö8÷A•AQhA	w•AÒQ@õ­‚AS'AUÇA
+]<A,zA‚¤AÆA
+ÏA‰[AhA<…AïYA	á.A	‚2AÌÁAÈA§“A	õŸAÏÑAÙyAÖ¼AiA6ÌA-éA	ñA3AÁÅAæ6AÍÆAÏ1A-A'¸A8ÜAÿÉA/NA	¢ÕAMXA,A	.lAàÐA÷tA
+4A
+ÊAåZA.@ù|Ã@ý<AÏ8A7p@ûŒåAÍ­@û³@õ/hAk§A_AwA z¦@û™ï@üš@ÿbLA2¥A†mAwÙAØö@ýtËAëE@ø}QAˆâAøA—ŒA¼TAK\@øÑiAÕ7A–AÕ2A˜•AÎ®A×ÉAiÇAõê@þëAŠ®A;A—¯A	jßAùãA
+hÄA$A
+yaA4ÛAÝAo@ÿÈŸA ¹A	hôA²hAœÀAnhA#A#AÄèAÍ'ATLA[Aº©A	~ÌA½âAV–A½|AQAÅAÔ”A¬4Aè©A>¤A*A
+(®A
+gbA¥£AõARAŠ_A
+‹°A»AÚ$A·AÿASÜA
+!A3‚AnÖAþAŽØAx¦ARAAñA€nArA|@@øø%AÛAœ¿AØ @ù°»@ÿj¦A Ö{AëâAœ‹AÛA°@ýÄúA—±AÌ@øþ5AâA
+”}AHAbAä8@ïöA‹¢@ýO@ôõA;¥A#«A’ø@öOoA]D@þ¤@ÿÒåAX·AÑÉA	,OA_óAS[@ú[5A(›AÛYA<6AÕAêŸAm–ABA
+H"AtAáAœ¢A%L6A^ABMA²ƒAæA?(A	ä†A>@A
+AÉAK“A+A:¤A¬¢AvA÷´Aû•AVÑAA’ÀAaÄA}ÆA±-A²¦A®AšEA
+/ºA	[åAÞ[A	rÞAeA9ýA1¶A$±AhkAmyAZ Aû(AA¦öAAÞ–ALgAEbAõ·A›nAHÛA³îA¨A„ãAxS@ûÆä@ÿ š@þÖ
+@ù:@÷æ¦@üÅAA @ò£@ýdGAÕAè@úÍ6AÜ-@ù2Ã@ö§‡AûžAË}A5ÑA	óA ,AùÑ@ÿOAðÀAtAŽV@ú@A¢XA¾¼A®
+Ax¡A»áAÐEAú‘A®ÒAÕÜACÇA…oAŠÜAöAìaAÏ¢AÓA	VJAŸA,a¢AwóA‹ãAiè‚A0È<ARúA¹ÀAy›AýÌAVœA	6AuaA¶IAÏÉA"A
+ÌeA ²A}ôA
+XA
+KFAøeA	¦÷A
+AÑAVþAÃ A+OA³PA£âAÜ“A©ÔAúANAxÅAbAG‚AqÿAð…A	 àA&Ax,Aê­AÀÆA$¼Aœ=A„ÚAëgA—bAyåA?_A†÷@ý5¹A¬‚A ðAÀõ@üæ¶@÷w#A =L@ý$A4TA£ãA™âAOA t@ûT÷A;ï@úÑ5@ÿ‘@üž€A°2AªA ßÚ@þ#ÝA~AÞ–@þÊ¸A_5AAm@ÿOdAA€A.AúAáòA£ÒA¸ÐAþ@þÿ
+AÓGAwqA´õAF	A AÕAJAROAfHQAÕñ.B²nAÒ4ÌAnµ¸AvaA)¸A}ATdAþ¥AKA½bA
+àÈAR\A(AïIAÜ:AÛ3A¢A AÍFAÒÃAAc@üÞAgAcìAr„A
+Ú§A¾<A£­A5Aß´AÐ2AIkAwƒATÃA‚×A`üA«ÉAVDAÌêA
+ªvAz[A AE‡A…AûæAüÃAñ¹A	¥oAÛE@ùa@ùCA˜7@ú¡š@ûxÜ@þÌ·Aq@î­cAÒ×A×ÇABkAFËA'M@ÿY£A¯ìAKA[gA´˜A ®MA™Ai{A +“A>¡@üóAd˜@ïû`Aç6Aú/AžŽA	¨A¸¯AˆqA¦A„AéÔA?ÄA d+A¡A“A™FA ïþAA’AAõfA$_ AÞBÛÐB3­VBÎIA‹üOA"zA	·ôA
+KÚA¥³A	7ÁAC~A™A	ù‰Am4Ah“A½ÉAñóAËA	”%A¡A¶=AôÈAXÉA	ctA	a>A	A
+_§AKœA„A±ATA
+È„A$AOAA#yA|ÿAP¤A—ßAŸAMA½1A›—A¡`AeAàUA'óA´ÅA	ÕÉAˆ~A…Ø@õ_m@øewA·#@öÀA >p@øS@öÆAAÓA ý¹AœR@ú×—A(«AñÔ@þeÍ@ÿ|–@ø®åA9Í@ÿèOAý¸A ?@ÿ2ÓA£ž@ý„ÍAÈA|èA"«A Ý4AôhA¹{AÎÝA¸Aø½@ú£õAAAˆïA:IA	s)A„¯A›ÄAXA	z¤A•rAÿ=AlNAn3hAÕÌBqAÒéAqq8AûòA¬	A¬ÁAÌ‹Aù@þÉ9A5AUAkA0A/PAª“AÛA¹_A(rAZèA€ÙAü²A•àA”AõA	ÌsAœA
+®æA	m\A	äµAÈqA	?@A	aßA	¯bA
+›A{A3XAA|ÉABÃA;+ALAAìA¦šArüA´6ATùA	(4A4@ú}È@ÿ@Aâ¡A]A T£A"Ü@ý7gA4~A hõA‡A ,Ð@þ*‹@ø#AVt@ûßjA×GA¸A?ì@ÿpAkÇAnüA-mA ÃÿA²-AóÉAšVAhAènA;¿@üJ¥A«ØAWAd7A£¦@ÿ“#A©qAVmA>ÈA}A ì@ÿMA‚,A¸~A‹–A“±A“æA.íÄAq–ÇA‡ÒÑAmÌÕA&?+AêAÞ¢A
+¼¢A	‹xAu@ñ¡EA[¯AÄÕAŸ×A`ûA
+¾PAî±A¾A _AT-A…>A	ãAìFA/ÏAj°AT‘A	A‡DAlA=˜A
+ŠùAAü¶AFAeyA¸ûAÙA	\AÎA©OAÀ.Aä€AQA¼-AäA½˜AˆóAž2A/AÁAÐ@ûB¡A@êâÛ@ü`fA‚“@ÿm}@ÿXKA+ÕA^¼@ýŠA A:'A?A‘A	]zA<&A ®AèU@þ”@ÿ¿SAÒÛA!
+@þu\AºR@üA· A7AÞeA0úAOCA	 AÙAkA£ÒAywAc:Aý¥Aò¶AAÐÓA÷9A¯-A%¶Aš´A4²A‘·AçñAÓOAÚ¬AµEA*qA
+7 A˜ABÁAÒßAX×A
+!nA
+HÆAjA
+îAkEA8A'mA A™;A	…jAFuAùkAÙA	äAA •A¾AëcA½þAÑCAÚIA;ßA‹
+A !AkA>,A®ŒA¤rA
+=oA¨An£AžÍAëA	Ë7A²pAãàAÔlAZA	7xAÙÙ@ÿû@û÷§AJ´@úž±@ý½@ñè@ÿroA©Ô@ÿxd@ðôg@ôÿÕ@÷f@ÿ2®AmíAŽ>A&LA¼ŠAý_A%ÁAÉùA)yAMðAXYA `f@þPAFôA	(AËA	QAP/A	LQAÝzAºAµA
+rA:FAçAå$A
+´§A{ÕA¾‡A	”AËAµ©AÚsA
+ƒmA	ngAA«Aˆ…AðçA
+ÁhAPA%²AG6A»AFA
+/jAyÇAA½A ’A’AGMA\Aå®A	“{AùíAMAòA÷BARAõA†}AšA-úAÍoAž`An•AöAòAÔPA
+
+rAíAt‘Añ1Ay¢A†}A 6A‘¤As÷A,A$A"ÌAeA^ÃAHQA3QA âA	ÆA˜|@ùl¢A‹A =|AÝ@ú\Ï@ó¬±Aª„@øSYAÒC@ý(AçÔAbƒAeA‰G@þ[kAíAû*A–ÄA¦AYÅAqB@þ¿A§ÆAI=AƒYA±õA\ A*AäèA¡mA	(ÙAÈA$çA=ûA§AoŒAqAÕãAêDAþA¾ÉAkVA	õqA
+ *A/AÐ<ACý@üh¦A
+8˜A›WA
+=SA
+AËàARoA"~A­ A	µ‘AA
+¾oAXmAÕðAŽ>AA	×6A	½;AoBAÛyA”vA	ÔA AAdöA
+$wAÜAÌ—AîAõÂA
+’æA ØAšfApAÑAdA	%pAøáAóÂA›iAiØAÑA
+Ì¦A:ÛA'²@ú]AÏ@A"A›ò@þðg@÷x@ôE}A 3Q@ÿLÑ@ýn‡AAmšAï*A «AVAÎAÿA	ÖAŒ]A!=AÓ@ý&îAÏCA	å{A4)A(ï@û+A .¤A	UlAUªAøþ@û¥Ak?A\¹A	×A£ÖA¸ÌA	WQA<A‡pA	LãA¹÷AxžAOA'½AÉˆAnùAÞäAãºA	qæAðÁAÍAlÅA^¬AôÀA¨A	ôªA	PÉA-zA	Š;A¸A4AuôA<Ae›A„„A8²AžùAÏ-AÙ±Aà]AìŠA9ÏA©$AhîA85AMA»AXÆAVA
+ôNAðqAR8A:JA
+žkA«³A
+OA\‚AÏÙAyŸAsLAŒÆAP¼AžáA_A§#AAaA1PA ÂA Ã0@÷,@ú–—A &±A«+ApAñA—Aè×AâdAÙãAºÌA¸»Al„AAs·A	˜èA2ãA ž@þUÇA
+@ü%ŒAŠ%A=ˆA7"AŸêAAAÕ@AÔbA hA¼eAnŒAg6AtÒA S4AÕ@üžAØ£AZÔA¥PA‘5A¾‰AÃqAÕHA
+w(A•[Aë™AíA¹—AÆÙAD‰A	·A
+Ô¢AÒA
+	A_vAúA›¿A“AOAÊgAÐxA	 A‰A	îyA
+I.A¼mA
+ÝêAµÞAdÇAý,AçA…ûAeAž AçˆA¡AˆQAGÀAá¡Aˆ½AfTAÙAT¹A	€A	‹šAö†AÛMAÜrARAƒGA	òÊAVcAßA r
+@þ_AóbAk@ÿG_@ø(eA <*AÒ3@ø»æAhA©¶@øvAìAÎØAß„A ×ºAû¦A!!A½¡@ýŸxAÙ`AØ AŠŸA ¡A®A•ÛA¹FAš»AïÐAË»A*¦A¸a@ÿ1ÅA	èA«üA±@þU“A7üAc5A	5A å_A²¤A	`·AùûA¼fA
+æ—AŸVAÄìA›SAîîAÌªA
+ù{AiÌAæÆAå#ANÚA³LA>°A	ÂqAÙ·A£CAû‘A©¾A
+‚”A
+çGAzAWA^!A!!A ¢A	©^Af‚AäÞA
+ÊAðAhAËÌA7NA	î‘A‚A
+¾A|OAD6AgôAƒÿAI–A/¨A¢gAnÄAÊ	A•¥A%µAãAÞŽ@úì"A ]»@î©Ajò@úàÚ@ý4³@ùxÑAPAgP@õQ]A ¶A­@ü¢OAþ£A ÂSA ¿DARžAU}@þ«‚@ø/îA›A	©@öÓ@ý®¥A«#A×£AIAÿíAfšAT…AÒ¦A¯ÊAÞªAGAÀ.A @ü¿ìAi,A}ÞAÍûAgA ¶QA	øAg@AóAVA6ÜA
+å‡AMhAuˆAœ—@ú… AÚAuÜA
+™´A	TA9ÕAnbA	fA	IvAZ–A	{ËAÞzA
+æ@A%kAi×AÎ?A	À	A–AA	3A$ANœA‰uA
+¾¡AYEA°SAtAB>AíA
+yA
+î'A 'A)"AsA˜>AþäAÑ(AõCArA
+?*Ad¦A	bzA÷%AALüAà@ûÉÙA{CAÉ@ôŒß@÷- Aˆ¾AmgA€
+AE@ý\@øgøA	êNA"A
+•0@úHLA
+ÒœA ÌA-ÀAwyA	 çA*ËAìËA@ÿõùATA¬ÈAã0AcAnNA´WA‰¥A	TA‡A‰A8TA SAãAd5A~ÁAµA	êjA vãA¶RA
+ÔzA<A‘A*»Ar-Am8Av>ArA	ÌÐA	ƒAÜAA@AçZA	ªÒA„A
+z3A™0A	ç+AfA
+îA"@A
+øoASEAÓAƒýAÔ|A
+eAA¥AõAÚ–A>4AŸAô{AÂÉA2"A"ÍAuÐA§èA 4A\A‹0AØ²AEA–§A2^AA‹AÈÛAmAÅ4AëéA¿b@óÔ@þÑŠA¢ÏAƒïAÙbAdd@ò&@ü8@øåbA À6@ÿ'©Aƒ@úEà@ü]@ñ«ÝAèTAO¸Ay<@ýŸkAèÅA |/Aó¯A]f@ÿ³AA“A¿¦A	Õ$A(ÑAEA á'AFbA!1AAðñAA&Aä@ÿ¬2AX}Aÿ+AÖ±A•ÍAMAŠÓAÍ!AlA¾ƒA©jA¢[AÎA‚×AšèA$ñA¿;A ¹A
+*8A„‹A¡ºAA½A¯MA·ýAžåAH“AlðA
+ÐqAÉªA	§(A/'A]A8ºA	Š…AWAŸsAæÔAú¾AÛ9AbúA–kAá‹AZ‡A
+¯ÏAèA&%AùZAîA@†A
+è@A*îAËWAäÏAØrAEðAEOAeAÂA¬«AÛ	Ac2@üQ@ûe¥@öí@ù’Ä@ôdÈAOA P¸@ÿŒAÔAð@ÿ™pAl»AP€A `^AçmAn&@û—þA3«A Q¦@þ˜«A˜AoËA	.AC¬AjHAõ™A•ãA
+N½AAÎÿA A	QSAþA	¨£AX¤A åAï–AÐAaVA<ž@ý?AI„Aª=A|ßA ½èAý‘A
+ü§@ûGA4ADuAhÎA‡A†A ®AoÚAÔ}A"%AïOA×ÌA&A	ygAA‰AêA
+9¨A¹nA’AÌ	A7ApYA¢4A{DA	…òAŒvA	qA
+™A’AiúA™	A]ºA\”AÔ`A†A˜Ai²AÜAAcýAË–A±ÚAŠrA]–A7úAß”AèæA	v|@ùxA™@ûš–A0ø@úBèAùa@úGI@øÆ%A QAÝü@üºìAb¤@ÿù®AlAo¶@þŸ¼A
+å3A	 êA
+õ(A•í@öxÜAKþAæÂA	Þ@ü^AÜ*A¨&A~<AæJAÅ™A	ŠÓA
+n£AFAÍð@þoAf¦@ü9—AàZAÓ‹AéiA×aAYA6xAé›Aù1A¼HAíaA¾,AíË@ÿë«A,óAÍA“°A%AgÐA®A
+MAœÓA€èAjŒA
+C:A6fA
+î„A‚þA ¡A´A	iÐAåA§A
+bûA	ûKA®AOEA	k•AE÷A{ªAº­A=áAßáA`ßAº$A°AóPAî²A
+‘{A •AÔõAHTAŸÚAoëABûAä”AòGAA6Aºb@÷žŠA ¾@ñ;·@ú&xAö@ößEA LAŽA{´ApòA u@öG±A½‚A†+ALü@ÿ^{@÷j¬@ïŸÔA¸@ü6ë@ûN±@õcAaëAû;AAYA¾A(¼A:‹A«®A€A*Aï÷AQüAUåA ;A5éAØôAôwA	hUA
+	­A ËA	CîA	ÔAXOAEAd‰@ü0ëAýxA{p@ýRTAJ8A½ÏAiuA@MAïAÎ#Aœ
+A£ŽAÌA)¡A¼’AU_A…A	÷ÀAAkAè©AtA	­<A/-AÁöANAh½AÔNAÔxA'qA×êA#QAƒ&A#û"AÍÍAùRA
+wAÆAÿ†Aþ~A`ÁAÕbAŽ~A<bAˆAŠ“AˆŽARCAÄàAýé@ôóÓ@þè@÷Ñ5A )YA’‹@øß2@ûµs@ø«ÕA JIAgp@øÊc@ù[ñA hÀA
+ÿA{±ACí@ø[A Â¤AÁ“A¤~AÞyA ¾¹A€ÖAÙŒALBA!ÅQA1Ø'A>ñUAMýA8ÂA3w—A(;ÛA	þAãÝA´A]»A.àA¬KA	FAÞAÿÿA†.A8,ADøAñdAÁAª÷A
+j:AfÑA	$èA âA­A7¯AÐøAýºA»A ANÒA°ìA	=JAŒA¶ŽA~A#àA‚ïA	§UA	ÙçAÒAüSAtAÁµA|AnA$åA2ÔA†XAMÊ*A…,
+A•ÒÉAƒAA–bA!ºÎAdúA`(A
+Z§A	A=pA›A'ÃA:GA ÙAäöAQzAÝÁAfïAó;@ú0AéX@ùÇ¾@ü€UAþo@÷“—@ÿØšAÌŠA¶ÂA q\A5ÊAiäAœ²AÝ†AÏëAl@øàAó›A5ZA5âA@oAº‘Aå‡AÀ²A'Ÿ‚AFƒ•Ao!ðAèÅA—çA‘ÿ9AuùAHj²A!øAªA¢@óý AžG@ü¸æAi®Aô¯AêèAa«@ÿóÖA@ÂA?AÛAùÖAÊ_Añ~A„MA@A‘ÍAÈ	Aà›A
+?NAØ1A\A
+»A	ÛAŒA×
+A¨-A	¨ÏA	0Aˆ>A	÷ºA‹uA#AÎñAþ9AûŸA¹”AðA!àA~AI†A­£BÙ„B2«¢B]÷A¬—rAG A AÒ´A|ªASíAªCAÆXA`”A-A.%AlCAEA¼£AµëA9u@õL@@ûrë@øŒAÕÊA èkA¨ Al'A8þAõ/@ù
+¢A }©A ¦ê@ý¤hA³@øŒÞA´§A„hA’@ôN³@ÿ“AŸ<A>YA
+ÑíA·AHÜA‡—‹A·8BAß4Að:AáLfA³¬¢AŠzAD­ùAyöAE±A
+j$A*ƒA#AõíA§`AÒËAhØAæãAoEAâBA
+„@þzÎA:wAžŸ@úpžAë&AŽAHA&ÛA	ƒñA@3A×A/A}6A7An/A?A^jA£¾A°A
+ºAÀTA#„AÉ|AájAíAºA{5AÔA''=A{öB÷DB‰ÔÁB¬¼nBˆ‚ BŠ=A…é¬A/RA
+„ÜA•ÎA" A¦“A¹éAA	‰sA
+:ðAýÓA˜Að”AbÑA{j@þÛ‡@þL¹A*CA6ÓAp¦A°tAí¢@ÿ™ú@õWðA	gÔ@ýA@ú©H@ýê`A.;ATeA¿j@ú
+AðA_@ÿxÿA…AòÿA9ÄA-ÕAt-A²¯ÒB”+B%9¢B3æ¥B"R.B  EA®!YAs¾‘A3ß;AúãA6ÖA	°°A	,AªMA%¬A•µA
+VÁAßA­ÝAœ@úþjAA(SA?ƒA	ŠýA†A	€ˆA
+ØAº5A%¤AeA²AcA	+ÐAëcAž«AílALBAæ€AÞAA–A	³²AÊ A€AÚòAPxA	
+€ABËAhoA-A™@šB1GB­5˜BÙlàB¬=B3øA•eA'Ì=AòüA}	A<šAÎÀA¡nADñAŸaAœdA‡vA %A:mAIÞA¿Ø@ö¹bAYþ@üg±Að5@ÿãšAoA
+wAT;A9€@ûwÙ@ûÿNA)A Œ‘A	58A >
+AÌûA2µA]FA§zAyA.¬AGýAÎADý­A’©ôAß@B%°šBRöÃBfvNBV¹:B#_ŠAàŒAZLA@æ8Aü£A— AÜ,A¼AðsAÏA#ƒA@AéÚA=®A˜Aj…A`ŽA.ûA¿iA>ÚAìA	êAbµA
+EAÆ¯AƒA` A	îšAÛA;ÅA
+¸pAŒGA‹AnAôúA
+ QA
+ÒwA»¶A›äAçdA3VA¬3AyFAížA&
+…A†(ÏBl BŠ†óB­
+8BŠ~(B’ëA†!’A#yA¸þA
+§~AAªAdfAÊWAýÒAäÕA7šA‹ôAÓ–AEzAÀä@ú`nA<ýAæè@þö!A3»A…PA•AÓ}@þ˜BAnÀAð0AÙãA XA¡A»ÄAmVA™ÞA;<AA6@úöÜAòAlJAA ìA˜ZÿAðåGB2Î_Beš¿B|ŠaBgÞ­B3ÎiAíÛqA˜)MANôžARÚA
+#ÖAÂ2@üŽ A	VŸAºûA@ÿèNA¶A¹nA €6A±AAšÊA}AÖ­A!AöA ñ‰At³A\A6A
+AØAyYA	Ã»A
+Ø…AVµA@WA³šA+ëA†A®AéAþKAêÁAz$A«3A“A²Ao!A$pA£AK:A«rƒB·¥B3¡±B±üA¯&ÁAE?¾A AlÎA
+ïQA	†ËAeÜAÂ¾AüAC²AŸãAð²A`ƒA›A$åA°#@õ{ó@ðJRAí°@ùÞ@þS´@ÿ~P@üXÎAÞ@úŠA5@û–]@üxD@ùp˜A ,ŽA’&AQA™–@ýìæAnAa³A›A{×AºÅA@ŠµAMûAßg%B$q—BSûBgû}BU÷B&pAÞZÅA‘ÈôA?›‹AÐ"A ½A–@þ™–A×AAÛEAŽAßiA’‘AbBA KA
+5AÆòAT%A&?A	%}AG{A¹AIwAAˆ–AsA»,A ÙAÏCAirA
+ò½AìâA	¬ÄA~WA
+ïÏA¦»A
+G?A‚‘A5
+A\qA
+]A[QAAl	A%ÛnACzÿA‡5A•’ßA†{¸AJèAtNAƒÖA	îOA+cANêAè,A	M`AJƒAò«Aâ¹AióAN£A	…4A¥A
+j5A5Ä@ü‹@þTI@û^€@ÿa)@ÿHAS†A
+à@÷‰
+A +)@øö³A  T@÷vûA úA vA ÁèA´@ý·•A	éÆAØˆAÍ{A>PAY²A+Ù´Ap*qA·aqB›>B#ôtB1UB&;ÍB #A¶WAsuA2nAsKA;†Ad€A	é½A	AyAyöAÔöAýšA&¥AèœA2÷AÌA°AÍKAQËAtqA)mAð‹AVáAäGA srAÒA+XA
+èIA®(AŠbAzÝA´AÎ‰AçAYAþý@ÿ§fA
+ÃAê`AµàAÜÊAkåA‘¨A&_A­QA›“A"NcA$¦CA!.jAë9A¢4A
+ÒAÈAüdAV8AÛRAàÿAOA€‚A
+æ!AS:AM+A“›Ap³AS·@ü¥@õ¾žAà°AòA§eA dA§ÖA PÊA l@ûSÎA ü5A9ÖAK-A =‡AãŽAjA XA »@ÿÆ‘@úw€A³WAçA¾WA9&AB–©A†1A³»šAÝ¿‘Aî]oAàö&A¶"A‡ AH|A$%IA±;AA`LAéžAPAF²AÛãA®Í@ÿfXAFA º#Aã¨ARAß-AQ4A«éA²A1}A2kA¹ÿA
+lAËA3ŸA-OAILA`ˆAÔ±Aš»Ao‹AÈOAŸAŽ~A+ÄAÈtA¢#ApMA¼|AÊA¥ AÅwA
+Á]A·Aì¼A¥¹AÌOA
+WøAÃ;A¦®A	†ŒAá:A<õA¬¸AP.A ÞA	Ç9AƒÐA¨½AaˆAa A£A­A.ìA 6,AÈ[A %@þñ.@øHó@þÎÊAJ@üÖØA”ø@û@@ýŒ@þïA ó‚AÓ~A ÆAUËA1aAcòAó¯A» A«;@öëgAüÇA‘2A*á,AL<¨AqâÚAŽ¢A•õÝAŽ
+vAl¼IAF}5A(²(A7AIAnHAÉÇAÞAKÇAkºAö{At'A(A•“AàA ¶dAûíA,A+ýA	A.6A[ Aï2A	ÌzAJûA«|AHA¦àAÄ@ý)aAÈA—›A	ö¯AvƒA
+rÿA\£Ab®A*ºAPÖAÃA	]AÄeA—qA7TA¹ãA|ªA
+A­A
+Ü¯AÕØAŒ¤A	1LAÍ6A6KAÚãA7Aä­AÛžA³œAm[An^A­A}ôAXÒAÍEAN@ö×¤A Þc@ýN@ù†ã@ÿN©@ñ,A
+ºAO÷A
+XAÖËAv´A;j@þ"„A7A¹Ó@ûë©AÀ´Ac>A sÖA ©AVSAòÕAx‰An§Aä²Ag-A0À&AD{AC]VAH ŸA+¹ÜA )uAqAyÈA
+–ƒA°<A¥ÉAê©AúA™©A§¨AµŠAý|Aìç@ú‰
+AÙ¸A¸uAeï@ÿA	JAAT@úkA¡G@ûm!AX1Aò±AA4A«äA	nAÝAô¡A=ñA
+!s@úåA³A4@A	\DAVšANÃA¢®Al÷A
+<£A‡¾A¡«A‘›AbÖAUAã¾AA“ëAØA	AâAâAˆ#A·€AÛ[A-AyqARiAÛVAÃúAA^ÎAùöAÑ}AFlA ®A/˜A!W@ûF‘A¦ïAvðA ?:AšApFAËAkÅA	÷BAZŸA,eAñAÑyAÉAÑ±AÅ$@þÛA
+	A	Š@ü±³A¡­AÊkA…A!í0AsïAÌôA ÕA
+ÍpAÞìAxÜAÜRA	‰èAµ@ÿB„A
+´´AçPA-[A¡„AÄ¡A¡jA¥ÕA5A'AAÖ¢A	Aè€A	«óA 79AFàAiÿA†ˆAEIA¾ÍAì‘AË²A	ÓnA_A¦}Ai[AhŠA•AËcA°AfAdAçA	¤AÛoAéA	" AžeA®‰AùhA¦AÐÚA-:AšA¬:AáAèßAû2AµA	%A2ŠA§íAPÕAöXA\;AöiA©¨@ö7Aß)@ûûÒAQ~AJ=@ÿf$@þÿA œ+A	@ûÄWA#ìA®éAÐ½A£AòŸA¸°AŸBA®A”ÌAIAquA5eA¡AXÆA	EAƒ£AJUAŸÊA«ÃA	FAŸàA:ÌAð…AíaAØA¯@ôkAjA»ì@úyüA‰éAÔêARÃAìÙAxæAÈA
+ApMA}^A	›ëA	G¤AùÁA"ÙA6òAòA ôåA
+GAÍA
+ÞúA-éAÒVA
+äA§A¾ÙA%eA	û¤Aá2AvA
+ÿòATÓAí¼A	ˆAàJAzÖA%óAË§A9/A›=AòÄA
+°¿A
+yÆA@þAö¦AãA	ÒA]ÝAÖA-5A|HATA
+¨AØAô+AkëAŠ­ApôAÕn@ú:qAßÌAÈ´@ÿoAU@þ¢"ADAA Hã@þ:A! @ÿÍqAAß÷A œîAt4@ù&¤A(A§ŸA_äA÷{@ûÙ“AZôAB[AnèA–Aó¹A	‘VAñAÂºAJáA°ƒA6AóA	d›AáJA“[A%AA‹ªA
+Aç\@ûí²AÞA@þ™JADÛAXÜ@þôA­ÉA‚A ÑÐAÂDAûšARLA	<AZ_AZNA.AÄA¤ðA¬A
+^ A
+xA>øAÞŸAu¶A•‰AÈñA÷UA=áA:5AC¬AE×A˜AûA	•UAô°A–bA
+¦ëAMA'˜A®AÄJA½¡AEgA÷­AvkALiAs¾AÛrAdâA™OAõ7ARAF@õ&»@ýU\@ð-:@ÿ¢ÊAíÃAHAñA%\AìA êÍAÚAJô@û/@óJÇ@ù©AÇAàAÚ„@þÚ¾AÙA9A…@üßq@ÿ¿3A—A¨0Aàl@þzHAˆgAÛûA]A³¡A[TAñAQúA
+FAD„@ý"A½AA|A
+WÁA	}!AoAï¨A	ßÑA0‹AZ€A%ÄAêA²AËcA]AÙÁAµ·ATóAÓ•A	¥AêØA°ÂA	–RA
+ÑA
+wùAA©AINA	ü4A@ÁAB¼Aj	AâA³A.óA	)uA^õA®òA	róAq\AW,AjA
+½¨ASÀAb>AOõA¼AëArA”`A
+áîA‚A
+ÆÝAqA`Au0ANNAÝ@ï«ù@öê @üš&Až/A·GCP A™@öŒAÛº@û`óA¼ÒA™pA\
+A"ÍA;/A ™Ad&AèÉAPA¼LAr6AŠŸ@þ×NA5KA	Dz@ø&@ù<ÆAsnA
+A¥AœXA*qA°qA èçA¯çA4y@ñ·»AJ…A	–AiÎAFXA	?ªAZÑAÍ;A
+›¤A
+ñ\AP&Aâ­A@þA	Œ'AX§A›ÌAa8A	æ©AÕAûïA	ÌüA AAï¯A	ÊÙA AÚªA§A‰PAêòA·öA‰sA©ÞA{€Aù»Að–A.ÈA…9AqÉA68AþwA
+ôªA±AbcADñAQÌA¤A™’AxA
+šáA
+î7A`ØABAÁA¤½AYPA·%AõåA½YADA Hª@ÿ¸
+@þ«*A Ø›@òÃ5A—2@õ	@ý(yAMa@ÿ@ÿÍVAMA  œAÌ@ú9ýA Ó¥@úÄ°A •A&)A ³sA+A5Až¼AÈžAp7@ÿˆAËÆAêïA±³A¿£A2¶AÙôA
+ÁÎA€A	¢A¸jAœJAGAÁ+AÞA=„A3µAÌgAŒ8A	oA- A?ÎAÐAÅâA=A]‘AdAøBA
+W¤A.oA\AT‚AA	¥ÒAâòA•#AÓ{AÀ	A	x.AÜ5A
+Ó$AàÀAÖKArwATœAWgAzŽAfDAùA"*Aý³AÁ·A†iA.RA‰AAeDA\2Ae>Aº7AÂ-Aø¼A	Ž A!%A	?AßqAWA„ÑAùðA`~A·]A
+ôB@öj¼@ïÈÓAoA FÒAäô@÷‰TA%·A¯¨A?ÐAJ\@øõAóA		J@ÿqcAìƒA×@ø`A ‰ÕAw¹A )Ax–AÕúAA ŸA‹ÞAKZA3A€éA@AeHA!µA81A>HA[+A U$A¾AZwA	»m@þèÕA~¤Añ¡AåÇA%tAëA~›Ar¸A	ÿ{AŠõA CoAtAC_A>–A¡êA—žAÒ AoÀA°“A
+ÛA¸©@ÿ¼·A
+™`AT‰APrAêüA[yA-<A“	A
+}9A©A™¯A	Ÿ»A	£‘A	èA®ÚAJÄAÔöAAkñAn)Av|AéAŒ®A	ÁAíA"AO–AAAÁaA
+IeAãýA‘ÍAëA5IA–YAUµA5é@ûì@ñÛA yA®µ@ûçA÷AèAÏwA
+ø@ÿœ_AäëA TAÊC@ó¡)@üÇACŠA)"A0A@þŠA„ÙAÈ(AÁ4A à$@ûöLAkþAGA.fA;ƒAÝAn?AðÛAN;A	e"A
+€mA­a@þ3AðÌAÈ¡Až›@ÿ½ÆA?•A1ËA5©A)qA§”A
+R2A%|AÏAþ›A©õAcèA¡³A%óA<GAUAìcAErAÏúA9¯AÙ÷A A	ûAAAAAÕA¨OAÜAƒA	½fA£A?RA…A|ÅA– A	N#A
+MAVØAßIA2qAÿkAÑAõ¤A) A\BAÝRAºsAA³DAØAÁCAÕíATAó¿Aœ±A6yAñ5AØvAŒI@ûZp@ÿA¥A ã@ñ˜±A¬&AMO@ýeì@÷	—A ÂsAAAûEA Ï‚@ÿÔàAÎ,A­AMAƒp@ú3ìAE~@ùwàA
+®‰ARNAWA
+óÚAý*AZA¼‰AnáA‹[AìA	yAA-0A4	AMúAcdA1AqAhZAí‹A
+YýA’ÄAò—AugAzbA(_A›AþAd/A	1 A*A
+«¯A	ú¬AYBAôAHeA]£A
+ó5A¥A
+^pA.qA
+½{A„ŸA	ª.A“A	°QA
+{wA•Ac—AÌA	•‡AUAÛAáUA…AìžAúðAE¿AíJA´A
+)tAŠþA¨ŒA}ÁAnA:mAÂ€AÇA
+BAA–´A ó@üKƒAgA< @üÃAæAßº@ý*ÝAÝ,@üì…A:)Av@ýKAƒYA¤øA-—A v=ATˆAiÚALN@ùŠ^A2ãA¥AnwAf÷@þ°¬Aä+AZ>AÛ+AA0nAW@A&šAZAA	`A]úA_A ÍA3"AÞLA	åNA4&A/LAZAÈ¸A	MêAêËAœÒANjAqÉAiÏ@ý'pAž»AšA
+Ø«A7uA=šA_AÂA·Aš¾Aµ,A§'AW>A
+ºAO=AdAbA	“OA	_bAoAŠ×A	_…AåÍA”óA
+ÁCA
+AßAšMAû­AÚÔA5A+ÑA
+ •A,EA÷ÎA†ÊA›ÕA«ÝA’nA/ØAM_A˜ŽA÷A1AaóArÚAHóAµZA!„AÕ4@ùt@úISAéÝAŽ@ýûW@ù'šA xl@÷¹—AÓ@þgDAbA•ÃA žn@øºñA SËAÅA(A£‚A>0AÌ8A÷ðAžA²2AZ‹@ÿL3A @÷OVA«%A„¿A <üAY5A	Ô9AàÓAüHA`›@û”=A9+A­ËAL^A A¿aAæÂAP9A"úAÛùA+[A%*@ÿÔ˜A	C÷A^ßAŽ.Ak(A
+ÍuA
+$žA!ÛA;AAÃ~A	b¦AX¿AÈ÷AÔA ¤XAÎWAf‹A…A
+ë$A;ÊA«fAAŸAs´A¯^A
+@ÍAÙøAú A)¯AßAŠ¶A”hA	zîA	A çAé$AÀASíAA÷2AiÔA
+AAŽ1A	÷A„@õõ†@ù“DA_Â@ú'zA cÇA–‚A?ŒA ‘pAÕ@üP!Aì1A ÌÁ@ýr¶@ýŸ¦Aì¡AÄ…A	6·A¹=A¥ßA.eAþTA‘AS‘A wøAFÂ@ú¾A?æA!’AÒÀ@ûÃF@ùáCA‰ÔA?HA	A	,øA{AÕQA	%.A “AVÊAIcA'ªAFìAq>AöA2A½­AdA)AÖ÷Aà€A ZA	ÙAªuAðA
+þAûéA?¿AžìA§4AÃ^A%'A²@þ¡AÆåAD=A
+©AœƒA
+19AÖqA7ÆAHA
+­A
+ÝAÈ~A	v‘AA
+M~Aˆ6A“A
+¾AÓEAÚA	–ßA•ÊASAA\~AžÆA	NA8ŸA	†¸AtFAÒA$AóýA×˜A `>A  UA 8ìAÑ¾A 8fAC¹AèžABnAàßA)Açù@÷³wA«A1AÞƒ@ÿ-Ð@ý’YA «Z@þáAGA ŠBAÝ®AºbA´AVd@ù¢Ap<@úd9@þÐAÖ’A
+&5A é•Aú`A¼†A²TAŒA°&@ýA²AyA	rEA
+=mA0 AÌA	TnAV)AXaA6’AA*AöøAÛAPVAªAŒRAí†AßPA.¼AqàAº-A
+],A	j}A”AJžA8NA¥A	—lAºAAoAºÓA×¨A
+!FA$èA„¼A˜$A¸ÜAh2Aü—AùhAš‡AHÛAvA]°AyÛANˆAÞªA~AòuAtëAÚcARñAßAÌÿAžA@æAÈ]A.µA^ÂAeAé@þ¤ÔAT¤A Š‡A î…A—`@øž™A©~Aø‹@ùA°õ@ü’A;›@üëê@üárA½•A AõAA ÛVAsØA®¢AlŒ@ú›öA	 ªA˜•AzA÷ºAçÚA %ÂAì–ARÚA+ªANG@ö†A¥—A‚PA	öÌA´0Aš@þPAEALÐAÔLA\{A	ŸïA'\A³¾AìAéAÒAªQAÉ0A'@A	‡¶A
+’éA[A	cÝAA	ÝAx7A
+°A‚øA
+KA	HTAr,Aã\A©ëA5	A‚lA4hA›RAVòA°JA;ãAé½AèA±fApAtAólAœÉAÓÁAg§A@"AAíAe/A
+AÿSA°SAÙ1A‘ªAæ‚Azí                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                XTENSION= 'IMAGE   '           / Image extension                                BITPIX  =                   16 / array data type                                NAXIS   =                    2 / number of array dimensions                     NAXIS1  =                   96                                                  NAXIS2  =                   80                                                  PCOUNT  =                    0 / number of parameters                           GCOUNT  =                    1 / number of groups                               EXTNAME = 'DQ      '           / extension name                                 COMMENT 0 good, 1 invalid, 2 saturated display flag                             END                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          

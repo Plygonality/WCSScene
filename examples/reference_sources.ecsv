@@ -1,0 +1,26 @@
+# %ECSV 1.0
+# ---
+# datatype:
+# - {name: label, datatype: string}
+# - {name: x_centroid, datatype: float64}
+# - {name: y_centroid, datatype: float64}
+# - {name: ra, datatype: float64}
+# - {name: dec, datatype: float64}
+# - {name: snr, datatype: float64}
+# - {name: anomaly_score, datatype: float64}
+# - {name: anomaly_percentile, datatype: float64}
+# - {name: known, datatype: bool}
+# - {name: reference_id, datatype: string}
+# meta: !!omap
+# - comments: [Synthetic WCSScene catalogue. Not a telescope observation., x_centroid and y_centroid are zero-based pixel centres., 'anomaly_score
+#       is a within-image score, not a discovery significance.', 'known and reference_id are catalogue fields, not physical classes.',
+#     No distances are provided; distance_status is distance_unknown.]
+# schema: astropy-2.0
+label x_centroid y_centroid ra dec snr anomaly_score anomaly_percentile known reference_id
+SRC-A 20.0 16.0 150.00221586391422 -20.001343907171908 12.0 0.1 20.0 False ""
+SRC-B 70.0 18.0 149.9956429351878 -20.004026964561074 40.0 0.15 55.0 True REF-SYN-B
+SRC-C 28.0 60.0 150.0038925336375 -19.996274906718707 8.0 0.95 99.0 "" ""
+SRC-D 78.0 58.0 149.99706998133112 -19.999461526328222 22.0 0.4 70.0 False ""
+SRC-E 48.0 40.0 149.99996425475476 -19.999966410446056 6.5 "" "" False ""
+SRC-BLANK 40.0 30.0 "" "" 5.0 "" "" "" ""
+SRC-OUT 140.0 10.0 149.9857656910686 -20.009142246561453 "" "" "" False ""
