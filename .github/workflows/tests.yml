@@ -36,7 +36,8 @@ jobs:
             https://ftp.nluug.nl/pub/graphics/blender/release/Blender4.5/blender-4.5.14-linux-x64.tar.xz
           mkdir -p "$HOME/blender"
           tar -xJf /tmp/blender.tar.xz -C "$HOME/blender" --strip-components=1
+          # GITHUB_PATH is applied to later steps only, so this step must call the binary directly.
+          "$HOME/blender/blender" --version
           echo "$HOME/blender" >> "$GITHUB_PATH"
-          blender --version
       - name: Blender smoke test
         run: pytest -q tests/test_blender_integration.py
