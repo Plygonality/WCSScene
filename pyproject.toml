@@ -1,0 +1,52 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "wcsscene"
+version = "0.1.0"
+description = "Traceable 2.5D Blender scenes from astronomical images and WCS metadata"
+readme = "README.md"
+requires-python = ">=3.11"
+license = { text = "MIT" }
+authors = [{ name = "Plygonality" }]
+keywords = ["astronomy", "wcs", "blender", "fits", "roman"]
+dependencies = [
+    "numpy>=1.26",
+    "astropy>=6.1",
+]
+
+[project.optional-dependencies]
+roman = [
+    "asdf>=5.4",
+    "gwcs>=1.0",
+    "roman-datamodels>=1.2",
+]
+dev = [
+    "pytest>=8",
+    "ruff>=0.8",
+]
+
+[project.scripts]
+wcsscene = "wcsscene.cli:main"
+
+[project.urls]
+Homepage = "https://github.com/Plygonality/WCSScene"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+markers = [
+    "blender: requires the tested Blender executable",
+    "roman: requires the optional Roman datamodel stack",
+]
+
+[tool.ruff]
+line-length = 100
+target-version = "py311"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "UP"]
+ignore = ["E501"]

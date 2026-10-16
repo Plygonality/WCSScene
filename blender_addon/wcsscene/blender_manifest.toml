@@ -1,0 +1,19 @@
+schema_version = "1.0.0"
+
+id = "wcsscene"
+version = "0.1.0"
+name = "WCSScene"
+tagline = "Import a WCS-traced astronomical image plane"
+maintainer = "Plygonality"
+type = "add-on"
+
+tags = ["3D View", "Import-Export", "Scene"]
+
+blender_version_min = "4.2.0"
+
+license = ["SPDX:MIT"]
+website = "https://github.com/Plygonality/WCSScene"
+
+[permissions]
+files = "Imports a local exchange bundle selected by the user"
+network = "No network access"
